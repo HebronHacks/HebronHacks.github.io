@@ -4,6 +4,7 @@ body {
   font-family: 'Inter', sans-serif;
   background: #fff5f0;
   color: #4a3728;
+  max-width: 100%;
   overflow-x: hidden;
   overflow-y: auto;
 }
