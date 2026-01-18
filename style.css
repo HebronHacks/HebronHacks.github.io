@@ -213,8 +213,8 @@ header p {
 }
 
 .about-img img {
-  max-width: 15vw;
-  height: auto;
+  max-height: 60vh;
+  width: auto;
   align-self: flex-end;
   border-radius: 20px;
   padding-bottom: 1vh;
