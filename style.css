@@ -112,7 +112,7 @@ header p {
   transform: translateY(-0.2vh);
 }
 
-.info, .theme, .schedule, .about {
+.info, .theme, .schedule, .about, .workshops {
   background-color: #ffffff;
   padding-left: 2vw;
   margin-left: 2vw;
@@ -143,11 +143,11 @@ header p {
   color: #ffc524;
 }
 
-.about {
+.about, .workshops {
   border-left: 0.5vh solid #28bdbd;  
 }
 
-.about h2, .tracks h2, .tracks h3 {
+.about h2, .tracks h2, .tracks h3, .workshops h2 {
   color: #28bdbd;
 }
 
@@ -160,7 +160,7 @@ header p {
   font-size: 2.0em;
 }
 
-.info-content, .theme-content, .schedule-content, .tracks-content, .about-content {
+.info-content, .theme-content, .schedule-content, .tracks-content, .about-content, .workshops-content {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
